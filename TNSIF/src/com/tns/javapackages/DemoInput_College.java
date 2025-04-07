@@ -1,4 +1,4 @@
-package com.tnsif.javapackages;
+package com.tns.javapackages;
 
 public class DemoInput_College {
 	public static void main(String[] args) {

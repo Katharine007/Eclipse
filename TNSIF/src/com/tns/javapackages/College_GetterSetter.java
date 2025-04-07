@@ -1,4 +1,4 @@
-package com.tnsif.javapackages;
+package com.tns.javapackages;
 
 public class College_GetterSetter {
 	private int id;

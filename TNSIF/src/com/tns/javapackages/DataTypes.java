@@ -1,4 +1,4 @@
-package com.tnsif.javapackages;
+package com.tns.javapackages;
 import java.util.Scanner;
 public class DataTypes {
 public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Assignment;
+package Assignment0;
 
 public class ConstQ1 {
 	private String fname;
@@ -50,5 +50,6 @@ public class ConstQ1 {
 	public String toString() {
 		return "ConstQ1 [fname=" + fname + ", roll=" + roll + ", grade=" + grade + ", percentage=" + percentage + "]";
 	}
+	
 
 }

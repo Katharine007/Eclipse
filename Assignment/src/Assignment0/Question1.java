@@ -1,7 +1,13 @@
-package Assignment;
+package Assignment0;
 import java.util.Scanner;
 public class Question1 {
+	public static void display() {
+		System.out.println("Hello..static");
+	}
 	
+	public void display2() {
+		System.out.println("Hello..Non static");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -22,6 +28,9 @@ System.out.println(ob.getFname());
 System.out.println(ob.getRoll());
 System.out.println(ob.getGrade());
 System.out.println(ob.getPercentage()+"%");
+
 	}
+
+	
 
 }

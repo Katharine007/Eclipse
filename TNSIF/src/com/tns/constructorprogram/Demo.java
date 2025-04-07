@@ -1,4 +1,4 @@
-package com.tnsif.constructorprogram;
+package com.tns.constructorprogram;
 
 public class Demo {
 public static void main(String[] args) {
