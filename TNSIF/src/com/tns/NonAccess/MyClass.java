@@ -1,4 +1,4 @@
-package NonAccess;
+package com.tns.NonAccess;
 
 public class MyClass {
 	final void sum() {

@@ -1,4 +1,4 @@
-package com.tnsif.interfaces;
+package com.tns.interfaces;
 
 public class MyClass implements MyInterface {
 

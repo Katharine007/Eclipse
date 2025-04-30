@@ -1,0 +1,1 @@
+Hello This is to try CheckedExample.java before and after file's existence.

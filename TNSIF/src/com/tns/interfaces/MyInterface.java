@@ -1,4 +1,4 @@
-package com.tnsif.interfaces;
+package com.tns.interfaces;
 
 public interface MyInterface {
 	int min=10; //constant (static and final)

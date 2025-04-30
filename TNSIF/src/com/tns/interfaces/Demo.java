@@ -1,4 +1,4 @@
-package com.tnsif.interfaces;
+package com.tns.interfaces;
 
 public class Demo {
 	public static void main(String[] args) {
